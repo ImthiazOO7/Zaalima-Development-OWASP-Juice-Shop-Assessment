@@ -1,0 +1,23 @@
+# OWASP Juice Shop Vulnerability Assessment
+
+## Overview
+Performed basic web application security testing on OWASP Juice Shop using BurpSuite and manual testing techniques.
+
+## Vulnerabilities Identified
+- SQL Injection (SQLi)
+- Cross-Site Scripting (XSS)
+- JWT Token Exposure
+- Authentication Bypass
+
+## Tools Used
+- BurpSuite Community Edition
+- Kali Linux
+- Firefox Browser
+
+## Screenshots
+Project screenshots are available inside the `Screenshots` folder.
+
+## Disclaimer
+This project was performed in a legal lab environment for educational purposes only.
+#Author
+"IMTHIAZ"
